@@ -195,11 +195,11 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 contextInfo: { externalAdReply :{ showAdAttribution: true,
                         sourceUrl: 'https://lynk.id/kahfi.xd',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`,
+                        description: `⚘ ᴄʀᴇᴀᴛᴇ Gilzz Tch`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `⚘ by https://lynk.id/kahfi.xd`,          previewType: 0,
                         thumbnail: await (await fetch(thumb)).buffer(),
-                        mediaUrl: 'https://lynk.id/kahfi.xd'
+                        mediaUrl: 'https://lynk.id/gilzzx'
                         
                       }}
 })
