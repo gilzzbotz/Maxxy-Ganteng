@@ -39,24 +39,24 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
     const detek = Math.floor( Kurang % (1000 * 60) / 1000)
 let cap = `Hay kak @${await m.sender.split('@')[0]}, itu nomor ownerku jangan dispam yah ^_^` 
   let buttonMessage= {
-'document':{'url':'https://youtu.be/hklv-Ysqqac'},
+'document':{'url':'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'},
 'mimetype':global.ddocx,
-'fileName':'「 ᴹᴿ᭄ King Of Bear ×፝֟͜× 」',
+'fileName':'「 Gilzz XD 」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'contextInfo':{
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':'https://youtu.be/hklv-Ysqqac',
+'mediaUrl':'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg',
 'mediaType':2,
 'previewType':'pdf',
 'title':`💌 Ultah Owner: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-'body':`⚘ by ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
+'body':`⚘ by Gilzz XD`,
 'thumbnail': await(await fetch(thumb)).buffer(),
-'sourceUrl':'https://youtu.be/hklv-Ysqqac'}},
+'sourceUrl':'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'}},
 'caption':cap,
-'footer':`Itu Owner Ku Yah Kak Jangan Sungkem Untuk Chat ;3
+'footer':`Itu Owner Ku Yah Kak Jangan Sungkan Untuk Chat ;3
 
 ${botdate}`,
 'buttons':[
