@@ -193,11 +193,11 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 'pageCount':fpagedoc,
 'previewType':'pdf',
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://lynk.id/kahfi.xd',
+                        sourceUrl: 'https://lynk.id/gilzzx',
                         mediaType: 2,
                         description: `⚘ ᴄʀᴇᴀᴛᴇ Gilzz Tch`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ by https://lynk.id/kahfi.xd`,          previewType: 0,
+                        body: `⚘ by https://lynk.id/gilzzx`,          previewType: 0,
                         thumbnail: await (await fetch(thumb)).buffer(),
                         mediaUrl: 'https://lynk.id/gilzzx'
                         
