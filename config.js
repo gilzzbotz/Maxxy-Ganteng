@@ -115,16 +115,16 @@ global.ultahowner = '03 April 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/c744e9d823ae3db3fd159.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/adb4093819d4faf4f36b7.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
-global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
-global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.giflogo = 'https://telegra.ph/file/60e7e7ceb559e5e8dc191.jpg'
+global.giflogo2 = 'https://telegra.ph/file/60e7e7ceb559e5e8dc191.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Maxxy BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.botintro = 'Hallo, Kenalin saya Gilz Botz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
+global.intro = 'https://telegra.ph/file/60e7e7ceb559e5e8dc191.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'Gilzz Tch'
 global.umurowner = '15'
