@@ -186,9 +186,9 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 `, text.trim(), flaa, [
       [`ꜱᴇᴡᴀʙᴏᴛ`, `${usedPrefix}sewa`],
       [`۪۪ᴀᴜᴛʜᴏʀ ʙᴏᴛ`, `${usedPrefix}owner`]
-    ], m, { 'document':{'url':'https://lynk.id/kahfi.xd'},
+    ], m, { 'document':{'url':'https://lynk.id/gilzzx'},
 'mimetype':global.dpdf,
-'fileName':'「 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓ 」',
+'fileName':'「 Gilzz Azaa 」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'previewType':'pdf',
