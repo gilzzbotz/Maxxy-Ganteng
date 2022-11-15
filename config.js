@@ -45,7 +45,7 @@ global.psaweria = 'https://saweria.co/gilzzbotz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6282334703987'
-global.nomorown = '6285730794089'
+global.nomorown = '6285730794089','6282141728189'
 global.namebot = 'Gilzz MD'
 global.nameown = 'Gilzz Azaa'
 
