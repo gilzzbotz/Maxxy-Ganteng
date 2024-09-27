@@ -6,9 +6,9 @@ import { fileURLToPath } from 'url'
 import moment from 'moment-timezone'
 
 /*============= WAKTU =============*/
-let wibh = moment.tz('Asia/Jakarta').format('HH')
-    let wibm = moment.tz('Asia/Jakarta').format('mm')
-    let wibs = moment.tz('Asia/Jakarta').format('ss')
+let wibh = moment.tz('Asia/Karachi').format('HH')
+    let wibm = moment.tz('Asia/Karachi').format('mm')
+    let wibs = moment.tz('Asia/Karachi').format('ss')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
     
     let d = new Date(new Date + 3600000)
@@ -27,36 +27,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/rdtyzagilz'
-global.syt = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
-global.sgh = 'https://github.com/gilzzbotz'
-global.sgc = 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
-global.swa = 'wa.me/6285730794089'
-global.swb = 'https://lynk.id/gilzzx'
-global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
-
+global.sig = 'https://www.instagram.com/iamibrahim_2005/'
+global.syt = 'https://www.youtube.com/serach'
+global.sgh = 'https://github.com/Thewiskey'
+global.sgc = 'https://api.whatsapp.com/send?phone=923229931076'
+global.swa = 'wa.me/923229931076'
+global.swb = 'https://'
+global.snh = 'http://iamibrahim.ddns.net/
 /*============== PAYMENT ==============*/
-global.pdana = 'PC OWNER'
-global.povo = 'PC OWNER'
-global.pgopay = 'PC OWNER'
-global.ppulsa = 'PC OWNER'
-global.ppulsa2 = 'PC OWNER'
-global.psaweria = 'https://saweria.co/gilzzbotz'
+global.pdana = '923229931076'
+global.povo = '-'
+global.pgopay = '923229931076'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
+global.psaweria = 'https://saweria.co/'
+
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282334703987'
-global.nomorown = '6285730794089'
-global.namebot = 'Gilzz MD'
-global.nameown = 'Gilzz Azaa'
+global.nomorbot = '923219842745'
+global.nomorown = '923229931076'
+global.namebot = '𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞ラ'
+global.nameown = 'ᴹᴿ᭄ 𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞 ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285730794089', 'Gilzz XD', 'true']
+  ['923229931076', 'ᴹᴿ᭄ 𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞 ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = [923229931076] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -82,7 +82,7 @@ adiisus: 'https://adiixyzapi.herokuapp.com',
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'cristian9407',
+  'https://api.xteam.xyz': '85faf717d0545d14074659ad',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
   'https://api.lolhuman.xyz': 'Xynoz',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
@@ -96,41 +96,44 @@ global.APIKeys = { // APIKey Here
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
+global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
+global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
+global.lolkeysapi = ['85faf717d0545d14074659ad']
 
 /*============== APIKEY ================*/
 global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Gilzz Botz | By R Agil' //Main Watermark
-global.wm2 = 'Gilzz Tch'
-global.wm3 = 'Gilzz Tch | By Kontol'
+global.wm = '𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞ラ | By ᴹᴿ𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞 ×፝֟͜×' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ 𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞 ×፝֟͜×'
+global.wm3 = '𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞ラ | By ᴹᴿ᭄ 𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞 ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Gilzz Tch | ʙʏ ${global.nameown}`
-global.author = 'Gilzz MD' 
-global.packname = 'Gilzz Tch'
+global.titlebot = `𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞ラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄ 𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞 ×፝֟͜×' 
+global.packname = 'ᴹᴿ᭄ 𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞 ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = '03 April 2023'
+
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/adb4093819d4faf4f36b7.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
-global.giflogo = 'https://telegra.ph/file/60e7e7ceb559e5e8dc191.jpg'
-global.giflogo2 = 'https://telegra.ph/file/60e7e7ceb559e5e8dc191.jpg'
+global.giflogo = 'https://ibb.co/4ZtqtRc'
+global.giflogo2 = 'https://telegra.ph/file/3b7ec1308edb07983efef.png'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Gilz Botz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
-global.intro = 'https://telegra.ph/file/60e7e7ceb559e5e8dc191.jpg'
+global.botintro = 'Hello, Meet me 𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞 BOT I will help you anytime & anywhere, I am a WhatsApp bot assistant made by *ᴹᴿ᭄ 𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞 ×፝֟͜×* I was released on date\n🗓 ️_15/11/2022_'
+global.intro = 'https://telegra.ph/file/3b7ec1308edb07983efef.png'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Gilzz Tch'
-global.umurowner = '15'
-global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285730794089'
-global.pacarowner = 'Kepo amat sih;v'
+global.nameowner = 'ᴹᴿ᭄𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞 ×፝֟͜×'
+global.umurowner = '17'
+global.asalowner = 'Abbottabad, KPK'
+global.nomorowner = 'wa.me/923229931076'
+global.pacarowner = 'Really keep anyway; v'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -143,7 +146,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.thumbdoc = 'https://telegra.ph/file/3b7ec1308edb07983efef.png'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
